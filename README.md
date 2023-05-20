@@ -43,6 +43,29 @@ ___
 - [How to Write a Git Commit Message](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - [Git Branching](https://learngitbranching.js.org/)
 - [Git Pull](https://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
+- [Introduction to Version Control Systems | Git and Github for Beginners #1](https://www.youtube.com/watch?v=uxAsIobfu88)
+
+
+
+### ___SHELL BASICS___
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPTQoeA6Y9lv-vXeadtHRu-O1kX_6LYZi_Jw&usqp=CAU" >
+
+#### ___ALX Intranet___
+- [What Is “The Shell”?](http://linuxcommand.org/lc3_lts0010.php)
+- [Navigation](http://linuxcommand.org/lc3_lts0020.php)
+- [Looking Around](http://linuxcommand.org/lc3_lts0030.php)
+- [A Guided Tour](http://linuxcommand.org/lc3_lts0040.php)
+- [Manipulating Files](http://linuxcommand.org/lc3_lts0050.php)
+- [Working With Commands](http://linuxcommand.org/lc3_lts0060.php)
+- [Reading Man pages](http://linuxcommand.org/lc3_man_pages/man1.html)
+- [Keyboard shortcuts for Bash](https://www.howtogeek.com/181/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/)
+- [LTS](https://wiki.ubuntu.com/LTS)
+- [Shebang](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
+
+#### ___Personal Resourses___
+- [Shell Scripting Tutorial for Beginners 1 - Introduction](https://www.youtube.com/watch?v=cQepf9fY6cE&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_)
+- [Shell For Absolute Beginners(Part 1)](https://www.youtube.com/watch?v=UJ8n7Jz9HMc&t=17s)
+- [Shell For absolute Beginners. (Part 2 - basic commands)](https://www.youtube.com/watch?v=P8OP4kbIUKo&t=15s)
 
 
 
