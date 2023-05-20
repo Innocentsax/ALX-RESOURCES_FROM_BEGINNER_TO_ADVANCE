@@ -50,7 +50,7 @@ ___
 ### ___SHELL BASICS___
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPTQoeA6Y9lv-vXeadtHRu-O1kX_6LYZi_Jw&usqp=CAU" >
 
-#### ___ALX Intranet___
+#### ___From ALX Intranet___
 - [What Is “The Shell”?](http://linuxcommand.org/lc3_lts0010.php)
 - [Navigation](http://linuxcommand.org/lc3_lts0020.php)
 - [Looking Around](http://linuxcommand.org/lc3_lts0030.php)
