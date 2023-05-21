@@ -12,7 +12,7 @@ ___
 - [Emacs Video Tutorial](https://www.youtube.com/watch?v=jPkIaqSh3cA)
 - [Emacs From Scratch #1 - Getting Started with a Basic Usable Configuration](https://www.youtube.com/watch?v=74zOY-vgkyw)
 
-
+___
 
 
 ### ___VIM GUIDE___
@@ -21,7 +21,7 @@ ___
 - [Vim Editor Fundamentals](https://www.youtube.com/watch?v=XguBRi4TDNc)
 - [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)
 
-
+___
 
 
 ### ___SHELL, NAVIGATION___
@@ -32,7 +32,7 @@ ___
 - [Shell Navigation Basics Part 2](http://linuxcommand.org/lc3_lts0030.php)
 - [Manipulating Files](http://linuxcommand.org/lc3_lts0050.php)
 
-
+___
 
 ### ___GIT AND GITHUB___
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ5r5PQ6gd9XnGlSu4LnBqV4lMDhZhQkKLiA&usqp=CAU">
@@ -45,7 +45,7 @@ ___
 - [Git Pull](https://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
 - [Introduction to Version Control Systems | Git and Github for Beginners #1](https://www.youtube.com/watch?v=uxAsIobfu88)
 
-
+___
 
 ### ___SHELL BASICS___
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPTQoeA6Y9lv-vXeadtHRu-O1kX_6LYZi_Jw&usqp=CAU" >
@@ -67,7 +67,23 @@ ___
 - [Shell For Absolute Beginners(Part 1)](https://www.youtube.com/watch?v=UJ8n7Jz9HMc&t=17s)
 - [Shell For absolute Beginners. (Part 2 - basic commands)](https://www.youtube.com/watch?v=P8OP4kbIUKo&t=15s)
 
+___
 
+### ___SHELL PERMISSION___
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS36E8aM5ThP0oGh5bvP2NelnmCcoeV_nJ_w&usqp=CAU">
+
+#### ___From ALX Intranet___
+- [Permissions](http://linuxcommand.org/lc3_lts0090.php)
+
+#### ___Personal Resourses___
+- [Linux File Permissions Cheat Sheet 1](https://www.stationx.net/linux-file-permissions-cheat-sheet/)
+- [Linux File Permissions Cheat Sheet 2](https://www.psychz.net/client/kb/en/linux-file-permissions-cheat-sheet.html)
+
+#### ___Videos Resourses___
+- [Shell Permissions (CHMOD, CHGRP, CHOWN)](https://www.youtube.com/watch?v=vE5lXygsogg)
+- [Unix Shell Scripting Tutorial](https://www.youtube.com/watch?v=HvonLym2eDw)
+___
 
 ## Author
 ### @ ___[UDO INNOCENT CHARLES](https://github.com/Innocentsax)___
