@@ -93,9 +93,16 @@ ___
 - [C programming: All you need to know.](https://youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S)
 - [C Programming playlist](https://youtube.com/playlist?list=PL9ooVrP1hQOFrNo8jK9Yb2g2eMHz7hTu9)
 
-![Preprocessing Directives in C](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/117779858/a331dc9e-4cc3-4433-af82-36ddb3cb819f)
+
+![c-preprocessor-directives-tutorial](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/117779858/57e1b1b5-aee1-4d02-9576-0b89bd5c8daa)
+
 - [Pre Processor Directives in C.](https://youtu.be/X6HiYbY3Uak)
+
+![compilation Process in C](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/117779858/84392048-50ff-4096-9f19-a491b1e50dfb)
 - [Compiling and Linking in C.](https://youtu.be/HQAIj6ejefY)
+- 
+- ![pseudocodes and flowcharts](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/117779858/f4a42a16-ba48-4f04-88ab-30fc193876ad)
+
 - [Pseudocode, flowchart, Algorithm and Whiteboarding.](https://youtu.be/cmqtfh-v13k)
 - [All you need to know about static libraries.](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
 - [Difference between static and dynamic libraries.](https://www.linkedin.com/pulse/difference-between-static-vs-dynamic-libraries-nicolas-ribeiro/)
