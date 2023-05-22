@@ -90,42 +90,42 @@ ___
 
 ### ___ Personal Resources___ 
 - [C Programming](https://youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2)
-- Watch https://youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S 
-- https://youtube.com/playlist?list=PL9ooVrP1hQOFrNo8jK9Yb2g2eMHz7hTu9
-- Pre Processor Directives in C. https://youtu.be/X6HiYbY3Uak
-- Compiling and Linking in C. https://youtu.be/HQAIj6ejefY
-- Pseudocode, flowchart, Algorithm and Whiteboarding. https://youtu.be/cmqtfh-v13k
-- All you need to know about static libraries. https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b
-- Difference between static and dynamic libraries. https://www.linkedin.com/pulse/difference-between-static-vs-dynamic-libraries-nicolas-ribeiro/
-- Read. https://www.ibm.com/docs/en/ztpf/2021?topic=warnings-unused-variables-functions
-- https://www.linkedin.com/pulse/coding-ismo-playlist-understand-c-static-libraries-gil-posada 
-- Static libraries for beginners. https://www.linkedin.com/pulse/c-static-libraries-beginners-mariem-matri/
-- Nested loops. https://youtu.be/Bl21uAvRiXc
-- Printf function. http://www.firmcodes.com/write-printf-function-c/
-- Variadic function. https://youtu.be/S-ak715zIIE
-- Printf project playlist. https://youtube.com/playlist?list=PL2yowC_WIiA5FUlIPz1XQceskxWT8pepB
-- Operators. https://youtu.be/hOLAoo2p7gM
-- Bit manipulations. https://codewise.hashnode.dev/ 
+- [C programming: All you need to know.](https://youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S)
+- [C Programming playlist](https://youtube.com/playlist?list=PL9ooVrP1hQOFrNo8jK9Yb2g2eMHz7hTu9)
+- [Pre Processor Directives in C.](https://youtu.be/X6HiYbY3Uak)
+- [Compiling and Linking in C.](https://youtu.be/HQAIj6ejefY)
+- [Pseudocode, flowchart, Algorithm and Whiteboarding.](https://youtu.be/cmqtfh-v13k)
+- [All you need to know about static libraries.](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
+- [Difference between static and dynamic libraries.](https://www.linkedin.com/pulse/difference-between-static-vs-dynamic-libraries-nicolas-ribeiro/)
+- [Varaiable functions](https://www.ibm.com/docs/en/ztpf/2021?topic=warnings-unused-variables-functions)
+- [Understanding static libraries](https://www.linkedin.com/pulse/coding-ismo-playlist-understand-c-static-libraries-gil-posada)
+- [Static libraries for beginners.](https://www.linkedin.com/pulse/c-static-libraries-beginners-mariem-matri/)
+- [Nested loops](https://youtu.be/Bl21uAvRiXc)
+- [Printf function](http://www.firmcodes.com/write-printf-function-c/)
+- [Variadic function](https://youtu.be/S-ak715zIIE)
+- [Printf project playlist](https://youtube.com/playlist?list=PL2yowC_WIiA5FUlIPz1XQceskxWT8pepB)
+- [Learn different operators in C](https:/n/youtu.be/hOLAoo2p7gM)
+- [Bit manipulations](https://codewise.hashnode.dev/) 
 
 
-## ___Internal___ 
+## ___Intranet___ 
 ___Hello World___
 
-_- Everything you need to know to start with C pdf. https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2022/4/e0ccf91eec6b977a9e00ed384dc285df9c2772e3.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230104T155404Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=dd33e8dfb92be3cc7150b3b9be22349b0be0a27502ad2e899c4191b9f0d1f902
-- Hello world. https://youtu.be/co0b0xLEuRM
-- Dennis Ritchie. https://en.wikipedia.org/wiki/Dennis_Ritchie
-- “C” Programming Language: Brian Kernighan. https://youtu.be/de2Hsvxaf8M
-- Why C programming is awesome. https://youtu.be/smGalmxPVYc 
-- Learning to program in C part 1.https://youtu.be/rk2fK2IIiiQ
-- Learning to program in C part 2. https://youtu.be/FwpP_MsZWnU 
-- Understanding C compilation process. https://youtu.be/VDslRumKvRA 
-- Betting coding style. https://github.com/holbertonschool/Betty/wiki 
-- Hash-bang under the hood. https://twitter.com/unix_byte/status/1024147947393495040?s=21
-- C vs C++. http://harmful.cat-v.org/software/c++/ 
-- Free Programming Tutorials. https://www.learninglad.com/
+- [Everything you need to know to start with C pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2022/4/e0ccf91eec6b977a9e00ed384dc285df9c2772e3.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230104T155404Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=dd33e8dfb92be3cc7150b3b9be22349b0be0a27502ad2e899c4191b9f0d1f902)
+- [Hello world](https://youtu.be/co0b0xLEuRM)
+- [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
+- [“C” Programming Language: Brian Kernighan](https://youtu.be/de2Hsvxaf8M)
+- [Why C programming is awesome](https://youtu.be/smGalmxPVYc)
+- [Learning to program in C part 1](https://youtu.be/rk2fK2IIiiQ)
+- [Learning to program in C part 2](https://youtu.be/FwpP_MsZWnU)
+- [Understanding C compilation process](https://youtu.be/VDslRumKvRA)
+- [Betting coding style](https://github.com/holbertonschool/Betty/wiki)
+- [Hash-bang under the hood](https://twitter.com/unix_byte/status/1024147947393495040?s=21)
+- [C vs C++](http://harmful.cat-v.org/software/c++/) 
+- (Free Programming Tutorials](https://www.learninglad.com/)
 
 ___Variables, if, else, while___ 
-- Jenny Lectures. https://youtu.be/oWTnLzWkF5w
+- [Jenny Lectures](https://youtu.be/oWTnLzWkF5w)
 
 
 ## Author
