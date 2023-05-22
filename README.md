@@ -118,7 +118,11 @@ _- Everything you need to know to start with C pdf. https://s3.amazonaws.com/alx
 - Understanding C compilation process. https://youtu.be/VDslRumKvRA 
 - Betting coding style. https://github.com/holbertonschool/Betty/wiki 
 - Hash-bang under the hood. https://twitter.com/unix_byte/status/1024147947393495040?s=21
-- C vs C++. http://harmful.cat-v.org/software/c++/linus
+- C vs C++. http://harmful.cat-v.org/software/c++/ 
+
+___Variables, if, else, while___ 
+-
+
 
 ## Author
 ### @ ___[UDO INNOCENT CHARLES](https://github.com/Innocentsax)___
