@@ -99,9 +99,10 @@ ___
 - [Pre Processor Directives in C.](https://youtu.be/X6HiYbY3Uak)
 
 ![compilation Process in C](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/117779858/84392048-50ff-4096-9f19-a491b1e50dfb)
+
 - [Compiling and Linking in C.](https://youtu.be/HQAIj6ejefY)
-- 
-- ![pseudocodes and flowcharts](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/117779858/f4a42a16-ba48-4f04-88ab-30fc193876ad)
+
+![pseudocodes and flowcharts](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/117779858/f4a42a16-ba48-4f04-88ab-30fc193876ad)
 
 - [Pseudocode, flowchart, Algorithm and Whiteboarding.](https://youtu.be/cmqtfh-v13k)
 - [All you need to know about static libraries.](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
