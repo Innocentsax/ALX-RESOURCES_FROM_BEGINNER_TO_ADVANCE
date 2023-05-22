@@ -88,8 +88,8 @@ ___
 ## ___C Programming___
 <img width="300" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4GUjFkesFbctkKWs9GNPp1bjpZL-vLtLyg&usqp=CAU">
 
-### ___External Resources___ 
-- Watch https://youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2
+### ___ Personal Resources___ 
+- [C Programming](https://youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2)
 - Watch https://youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S 
 - https://youtube.com/playlist?list=PL9ooVrP1hQOFrNo8jK9Yb2g2eMHz7hTu9
 - Pre Processor Directives in C. https://youtu.be/X6HiYbY3Uak
