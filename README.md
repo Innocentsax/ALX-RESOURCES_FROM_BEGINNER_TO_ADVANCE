@@ -85,5 +85,9 @@ ___
 - [Unix Shell Scripting Tutorial](https://www.youtube.com/watch?v=HvonLym2eDw)
 ___
 
+## ___C Programming___
+<img width="300" height="150" src="src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4GUjFkesFbctkKWs9GNPp1bjpZL-vLtLyg&usqp=CAU">
+
+
 ## Author
 ### @ ___[UDO INNOCENT CHARLES](https://github.com/Innocentsax)___
