@@ -160,16 +160,16 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
 
 ## Resources
 ### Read or watch:
-[CMD Module](https://docs.python.org/3.8/library/cmd.html)
-[cmd module in depth](http://pymotw.com/2/cmd/)
-packages concept page
-[uuid module](https://docs.python.org/3.8/library/uuid.html)
-[datetime](https://docs.python.org/3.8/library/datetime.html)
-[unittest module](https://docs.python.org/3.8/library/unittest.html#module-unittest)
-[args/kwargs](https://yasoob.me/2013/08/04/args-and-kwargs-in-python-explained/)
-[Python test cheatsheet](https://www.pythonsheets.com/notes/python-tests.html)
-[cmd module wiki page](https://wiki.python.org/moin/CmdModule)
-[python unittest](https://realpython.com/python-testing/)
+- [CMD Module](https://docs.python.org/3.8/library/cmd.html)
+- [cmd module in depth](http://pymotw.com/2/cmd/)
+- packages concept page
+- [uuid module](https://docs.python.org/3.8/library/uuid.html)
+- [datetime](https://docs.python.org/3.8/library/datetime.html)
+- [unittest module](https://docs.python.org/3.8/library/unittest.html#module-unittest)
+- [args/kwargs](https://yasoob.me/2013/08/04/args-and-kwargs-in-python-explained/)
+- [Python test cheatsheet](https://www.pythonsheets.com/notes/python-tests.html)
+- [cmd module wiki page](https://wiki.python.org/moin/CmdModule)
+- [python unittest](https://realpython.com/python-testing/)
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
@@ -193,16 +193,16 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 ## Resources
 ### Read or watch:
 
-[What is Database & SQL?](https://www.youtube.com/watch?v=FR4QIeZaPeM)
-[A Basic MySQL Tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
-[Basic SQL statements: DDL and DML (no need to read the chapter “Privileges”)](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/ddldml.php)
-[Basic queries: SQL and RA](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/queries.php)
-SQL technique: functions   (https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/functions.php)
-[SQL technique: subqueries ](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/subqueries.php)
-[What makes the big difference between a backtick and an apostrophe?     ](https://stackoverflow.com/questions/29402361/what-makes-the-big-difference-between-a-backtick-and-an-apostrophe/29402458)
-[MySQL Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/SQL-Commands-Cheat-Sheet.pdf?US)
-[MySQL 8.0 SQL Statement Syntax  ](https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html)
-[installing MySQL in Ubuntu 20.04](https://phoenixnap.com/kb/install-mysql-ubuntu-20-04)
+- [What is Database & SQL?](https://www.youtube.com/watch?v=FR4QIeZaPeM)
+- [A Basic MySQL Tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
+- [Basic SQL statements: DDL and DML (no need to read the chapter “Privileges”)](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/ddldml.php)
+- [Basic queries: SQL and RA](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/queries.php)
+- [SQL technique: functions](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/functions.php)
+- [SQL technique: subqueries ](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/subqueries.php)
+- [What makes the big difference between a backtick and an apostrophe?     ](https://stackoverflow.com/questions/29402361/what-makes-the-big-difference-between-a-backtick-and-an-apostrophe/29402458)
+- [MySQL Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/SQL-Commands-Cheat-Sheet.pdf?US)
+- [MySQL 8.0 SQL Statement Syntax  ](https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html)
+- [installing MySQL in Ubuntu 20.04](https://phoenixnap.com/kb/install-mysql-ubuntu-20-04)
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
