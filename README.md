@@ -122,7 +122,7 @@ ___Hello World___
 - [Betting coding style](https://github.com/holbertonschool/Betty/wiki)
 - [Hash-bang under the hood](https://twitter.com/unix_byte/status/1024147947393495040?s=21)
 - [C vs C++](http://harmful.cat-v.org/software/c++/) 
-- (Free Programming Tutorials](https://www.learninglad.com/)
+- [Free Programming Tutorials](https://www.learninglad.com/)
 
 ___Variables, if, else, while___ 
 - [Jenny Lectures](https://youtu.be/oWTnLzWkF5w)
