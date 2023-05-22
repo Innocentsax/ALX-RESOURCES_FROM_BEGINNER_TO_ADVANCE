@@ -93,8 +93,7 @@ ___
 - [C programming: All you need to know.](https://youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S)
 - [C Programming playlist](https://youtube.com/playlist?list=PL9ooVrP1hQOFrNo8jK9Yb2g2eMHz7hTu9)
 
-
-![c-preprocessor-directives-tutorial](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/117779858/57e1b1b5-aee1-4d02-9576-0b89bd5c8daa)
+![Preprocessing Directives in C](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/117779858/cd641916-f29a-4250-b719-7f5cb78dac21)
 
 - [Pre Processor Directives in C.](https://youtu.be/X6HiYbY3Uak)
 
