@@ -92,6 +92,9 @@ ___
 - Watch https://youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2
 - Watch https://youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S 
 - https://youtube.com/playlist?list=PL9ooVrP1hQOFrNo8jK9Yb2g2eMHz7hTu9
+- Pre Processor Directives in C. https://youtu.be/X6HiYbY3Uak
+- Compiling and Linking in C. https://youtu.be/HQAIj6ejefY
+- Pseudocode, flowchart, Algorithm and Whiteboarding. https://youtu.be/cmqtfh-v13k
 - All you need to know about static libraries. https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b
 - Difference between static and dynamic libraries. https://www.linkedin.com/pulse/difference-between-static-vs-dynamic-libraries-nicolas-ribeiro/
 - Read. https://www.ibm.com/docs/en/ztpf/2021?topic=warnings-unused-variables-functions
