@@ -16,7 +16,9 @@ ssh enables you to securly execute commands and programs in a computer that is p
 1. Use 4-not_found_page_404 script from task 4 in [this project.](https://intranet.alxswe.com/projects/266)
 2. In your terminal, go into the appropriate repo using cd. The filepath should be alx-system_engineering-devops/0x0C-web_server
 3. Copy it using scp command as follows:
-```scp 4-not_found_page_404 ubuntu@your_web-02_server_ip:~```
+```
+scp 4-not_found_page_404 ubuntu@your_web-02_server_ip:~
+```
 Note that 'your_web-02_server_ip' is just a placeholder name. Use your correct web-02 server IP.
 4. Now ssh into web-02 and run the script. If done correctly, web-02 nginx will now be configured just like web-01.
 5. Exit by typing 'exit' or pressing Ctrl + D. Now cd back into the task folder '0x0F-load_balancer'. Don't forget to create a readme file.
@@ -24,8 +26,12 @@ Note that 'your_web-02_server_ip' is just a placeholder name. Use your correct w
 After you do this, you write another script to configure a custom header in nginx in both web-01 and web-02
 1. Create the 0-custom_http_response_header script in the task folder '0x0F-load_balancer'.
 2. Use scp to copy this script to both web-01 and web-02 servers
-```scp 0-custom_http_response_header ubuntu@your_web-01_server_ip:~```
-```scp 0-custom_http_response_header ubuntu@your_web-02_server_ip:~```
+```
+scp 0-custom_http_response_header ubuntu@your_web-01_server_ip:~
+```
+```
+scp 0-custom_http_response_header ubuntu@your_web-02_server_ip:~
+```
 3. ssh into web-01, run the script. Exit back to your terminal.
 4. ssh into web-02, run the script. Exit back to your terminal.
 5. Test your configuration using the example shown in the task.
