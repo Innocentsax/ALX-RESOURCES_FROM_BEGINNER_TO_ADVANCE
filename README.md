@@ -135,6 +135,11 @@ ___Hello World___
 
 ___Variables, if, else, while___ 
 - [Jenny Lectures](https://youtu.be/oWTnLzWkF5w)
+- [Keywords and identifiers](https://publications.gbdirect.co.uk//c_book/chapter2/keywords_and_identifiers.html)
+- [Integers](https://publications.gbdirect.co.uk//c_book/chapter2/integral_types.html)
+- [Arithmetic Operators](https://www.tutorialspoint.com/cprogramming/c_arithmetic_operators.htm)
+- [If statements in C](https://www.cprogramming.com/tutorial/c/lesson2.html)
+- [If, else statements](https://www.tutorialspoint.com/cprogramming/if_else_statement_in_c.htm)
 
 
 ## Author
