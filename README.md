@@ -88,7 +88,7 @@ ___
 ## ___C Programming___
 <img width="300" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4GUjFkesFbctkKWs9GNPp1bjpZL-vLtLyg&usqp=CAU">
 
-### ___ Personal Resources___ 
+### ___Personal Resources___ 
 - [C Programming](https://youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2)
 - [C programming: All you need to know.](https://youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S)
 - [C Programming playlist](https://youtube.com/playlist?list=PL9ooVrP1hQOFrNo8jK9Yb2g2eMHz7hTu9)
@@ -138,4 +138,6 @@ ___Variables, if, else, while___
 
 
 ## Author
-### **[Innocent Udo](https://www.github.com/innocentsax)**, **[Owolabi Pius](https://www.github.com/opius2017)**
+### **[UDO INNOCENT CHARLES](https://www.github.com/innocentsax)**, **[Owolabi Pius](https://www.github.com/opius2017)**
+
+
