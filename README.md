@@ -22,6 +22,7 @@ ___
 - [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)
 
 ### Vi/Vim/Nvim keys and shortcuts
+Coming from a click, touch, drag and drop world, command line tools and navigation might seem tricky at first. Don't fret. They are not difficult to learn, they are just not intuitive yet. As you use them daily, they will become a part of you.
 Vi has two primary modes:
 1. Command mode: Let's you execute commands like save, quit, formats, e.t.c.
 2. Insert mode: When you type to populate a file.
@@ -58,6 +59,34 @@ Other great commands:
 - gg - Takes the cursor to the top of the file. Faster way to navigate than using arrow keys.
 - dd - Deletes the entire line where the cursor is placed. Faster than delete or backspace button. Can also be used to paste the line elsewhere when you press 'p'.
 - ?keyword - Used to search keywords in a document. For example, ?printf will look for all instances of 'printf'. If there are multiple instances, use 'n' and 'N' to jump between them forwards or backwards respectively.
+
+How to debug code in the command line using vi:
+
+1. Here's a simple code sample that prints a statement three times. Please note that this code was written specifically for demonstration purposes.
+
+![0 program](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/421a96c1-8ea3-4184-9dd8-ed2898624a09)
+
+2. When you run a betty check on the code, it gives you an error message. Notice the number '27' in front of the file name. That number is the line number where the error occured.
+
+![1 error message](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/9c2f77fa-e5b0-4234-8943-a69df8d77396)
+
+3. When you open the code in Vi again, type :set number and pressed Enter to display line numbers in the code. This makes it easy to track line 27.
+
+![2  set number](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/3ade4971-7c1f-4560-b161-cd1de3b08ae4)
+
+4. Two errors were flagged. "space prohibited before semicolon" and "void function return statements are not generally useful". For the sake of simplicity, I employed a basic fix.
+
+![3 fix error](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/2f7e7b47-c039-452e-a56f-64bb5160dfbf)
+
+5. Now when you run betty again, the code will be error free.
+
+![4 error free](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/c41768ed-ca9d-443c-8809-24a95cfc8594)
+
+6. To recap, check for the error line, read and understand the error message and address it accordingly. You can always ask your peers to help you interpret error messages that you don't yet understand. I hope this helps, however simplistic it might appear. Keep doing hard things!
+
+![4 error free](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/d0410ac1-f51b-4e8b-bbbf-996103603eeb)
+
+
 ___
 
 
