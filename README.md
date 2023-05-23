@@ -62,11 +62,11 @@ Other great commands:
 
 How to debug code in the command line using vi:
 
-1. Here's a simple code sample that prints a statement three times. Please note that this code was written specifically for demonstration purposes.
+1. Here's a simple code sample that prints a statement three times. Please note that this code was written specifically for demonstration purposes. The file name is saved as 'debug.c'
 
 ![0 program](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/421a96c1-8ea3-4184-9dd8-ed2898624a09)
 
-2. When you run a betty check on the code, it gives you an error message. Notice the number '27' in front of the file name. That number is the line number where the error occured.
+2. When you run a betty check on the code, it gives you an error message. Notice the number '27' in front of the file name 'debug.c:27'. That number is the line number where the error occured.
 
 ![1 error message](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/9c2f77fa-e5b0-4234-8943-a69df8d77396)
 
