@@ -57,14 +57,21 @@ Configuring your domain zone to point your subdomain to your load balancer is ea
 You should have your domain name by now.
 1. Got to get.tech
 2. Login to your account
+
 ![login page](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/2ae345bc-71b6-41bb-83c9-ccdb624a6f96)
+
 3. When logged in, at the top right hand corner, click on account.
+
 ![acount](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/5ebfa10d-450b-44a3-95ef-bb88a22e543d)
 4. The account management page will appear. In the 'Jump to Domain' window, type your domain name and click on the '>>' button.
+
 ![jump to domain](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/ca42ac75-b097-4893-8293-0b8c0d949aa1)
 5. A new page will appear. Scroll to the bottom of the page or click on 'DNS Management' on the side menu. Then click on 'Manage DNS'
+
 ![manage dns](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/adb78a7a-24af-4829-bd45-8994a56f98a0)
 6. A new window will open. This is your domain zone. All you are required to do here is to create A records according to how they are specified in the tasks. Click on 'Add A record'.
+
 ![domain zone](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/d131fb25-a566-415d-b852-2973d065d722)
 7. An A record page will appear. In 'Host Name', type 'www'. In 'Destination IPv4 address' type your lb-01 IP address. Click 'Add record'.
+
 ![a record page](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/05251d0f-7760-44d1-b348-22dd43c1fc06)
