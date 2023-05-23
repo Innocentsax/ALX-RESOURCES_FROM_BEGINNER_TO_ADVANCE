@@ -89,7 +89,7 @@ NB: These guidelines are written according to the time they were executed. Page 
 
 
 ## HAproxy SSL termination
-Step 1: ssh into lb-01
+Step 1: ssh into lb-01.
 Step 2: Stop HAProxy process
 ```
 sudo service haproxy stop
