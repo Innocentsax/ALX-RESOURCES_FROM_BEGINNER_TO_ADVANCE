@@ -89,3 +89,16 @@ NB: These guidelines are written according to the time they were executed. Page 
 
 
 ## HAproxy SSL termination
+Step 1: ssh into lb-01
+Step 2: Stop HAProxy process
+```
+sudo service haproxy stop
+```
+Step 3: Install Certbot
+[Click here to open](https://certbot.eff.org/instructions?ws=haproxy&os=ubuntufocal) Certbot's official page for instructions on how to install it to work with HAProxy. Follow it step by step. When you get to step 7, switch over to [this article](https://www.linuxtechi.com/how-to-setup-haproxy-ssl-termination-ubuntu/).
+In this article they installed it with apache. But we are installing with HAProxy, so scroll down to the part after the apache service is stopped.
+```
+sudo certbot certonly --standalone --preferred-challenges http --http-01-port 80 -d root_domain -d sub_domain
+```
+Replace root_domain with your own root domain.
+Replace sub_domain with your own subdomain.
