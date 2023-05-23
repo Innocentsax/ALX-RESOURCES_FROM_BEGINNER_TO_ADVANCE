@@ -21,6 +21,35 @@ ___
 - [Vim Editor Fundamentals](https://www.youtube.com/watch?v=XguBRi4TDNc)
 - [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)
 
+### Vi/Vim/Nvim keys and shortcuts
+Vi has two primary modes:
+1. Command mode: Let's you execute commands like save, quit, formats, e.t.c.
+2. Insert mode: When you type to populate a file.
+
+To tell what mode you are in, watch the bottom left corner of your screen. Command mode displays nothing. Insert mode displays:
+```
+---INSERT---
+```
+When you open Vi, the default mode is the command mode. To start typing, press 'i' to enter into insert mode. Press ESC key to go back into command mode.
+
+How to exit Vi:
+You must be in command mode to execute these:
+To quit an unedited document:
+```
+:q
+```
+To quit an edited document without saving changes:
+```
+:q!
+```
+To save progress without quiting
+```
+:w
+```
+To save and quit
+```
+:wq or :x
+```
 ___
 
 
