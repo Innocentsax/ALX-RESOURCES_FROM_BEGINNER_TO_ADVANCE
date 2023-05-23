@@ -117,8 +117,8 @@ ___
 - [Bit manipulations](https://codewise.hashnode.dev/) 
 
 
-## ___Intranet___ 
-___Hello World___
+## ___ Alx Resources___ 
+### ___Hello World___
 
 - [Everything you need to know to start with C pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2022/4/e0ccf91eec6b977a9e00ed384dc285df9c2772e3.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230104T155404Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=dd33e8dfb92be3cc7150b3b9be22349b0be0a27502ad2e899c4191b9f0d1f902)
 - [Hello world](https://youtu.be/co0b0xLEuRM)
@@ -133,7 +133,7 @@ ___Hello World___
 - [C vs C++](http://harmful.cat-v.org/software/c++/) 
 - [Free Programming Tutorials](https://www.learninglad.com/)
 
-___Variables, if, else, while___ 
+### ___Variables, if, else, while___ 
 - [Jenny Lectures](https://youtu.be/oWTnLzWkF5w)
 - [Keywords and identifiers](https://publications.gbdirect.co.uk//c_book/chapter2/keywords_and_identifiers.html)
 - [Integers](https://publications.gbdirect.co.uk//c_book/chapter2/integral_types.html)
@@ -143,29 +143,38 @@ ___Variables, if, else, while___
 - [Relational Operation](https://www.tutorialspoint.com/cprogramming/c_relational_operators.htm)
 - [Logical Operators](https://www.fresh2refresh.com/c-programming/c-operators-expressions/c-logical-operators/)
 - [while Loop in C](https://www.tutorialspoint.com/cprogramming/c_while_loop.htm)
+
  ___Video Resouses___
 - [While Loop](https://youtu.be/Ju1LYO9pkaI)
 
-___Functions, nested loops___
+### ___Functions, nested loops___
 - [C Functions](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
 - [What is the purpose of a function prototype](https://www.geeksforgeeks.org/what-is-the-purpose-of-a-function-prototype/)
 - [C header files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
+
 __Video Resources___ 
 - [Nested while loop](https://youtu.be/Z3iGeQ1gIss)
 - [Learning to program in C](https://youtu.be/qMlnFwYdqIw)
 
 
-___C Debugging___ 
+### ___C Debugging___ 
 - [Debugging](https://en.wikipedia.org/wiki/Debugging)
 - [Rubber Duck debugging](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/)
 
-___Pointers, arrays, and strings___ 
+### ___Pointers, arrays, and strings___ 
 - [Pointer to pointer](https://www.tutorialspoint.com/cprogramming/c_pointer_to_pointer.htm)
 - [Pointer to pointer with examples](https://beginnersbook.com/2014/01/c-pointer-to-pointer/)
 - [Multi_dimentional arrays in C](https://www.tutorialspoint.com/cprogramming/c_multi_dimensional_arrays.htm)
 - [Two-dimensional (2D) arrays in C programming with ](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)
 
+### ___Recursion___ 
+- [, introduction ](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/1/2818ba6f14f644b871dcbd746925fa15b8cd5937.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230104T164913Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=97176d67e982b371ae5462ba88aba30c5362eb7f2c7956a953703d2378c290df)
+- [Recursion for beginners](https://www.tutorialspoint.com/cprogramming/c_recursion.htm)
 
+___Video Resources___ 
+- [What on earth is recursion](https://youtu.be/Mv9NEXX1VHc)
+- [Programming tutorials, recursion part 1](https://youtu.be/XGxbXMP6k8k)
+- [Programming tutorials, recursion part 2](https://youtu.be/7XiIS6HobNs)
 
 
 
