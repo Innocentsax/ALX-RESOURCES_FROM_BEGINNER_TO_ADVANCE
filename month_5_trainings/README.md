@@ -20,9 +20,9 @@ _For this project, we expect you to look at this concept:_
 
 
 ### Read about regexp:
-- http://www.regular-expressions.info/
-- http://www.w3schools.com/jsref/jsref_obj_regexp.asp 
-- Play with regexp (or compose them):
+- [Regular Expression](http://www.regular-expressions.info/)
+- [Regular Expression](http://www.w3schools.com/jsref/jsref_obj_regexp.asp)
+Play with regexp (or compose them):
 - [Ruby: ](http://rubular.com/)
 - [PHP/Javascript/Python: ](https://regex101.com/)
 
@@ -133,7 +133,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 
 # 0x00. AirBnB clone - The console
-![enter image description here](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D/20230522/us-east-1/s3/aws4_request&X-Amz-Date=20230522T175754Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b341a10138cc516c89d148fd544a156b9c07d1f7a18e7477f27817024c9c915c)
+![enter image description here](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png)
 
 # Background Context
 ## Welcome to the AirBnB clone project!
