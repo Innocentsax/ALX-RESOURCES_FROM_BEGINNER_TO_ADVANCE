@@ -11,3 +11,29 @@ What is SSH? SSH is a short form for Secure Shell, just as 'bash' is short for B
 
 ssh enables you to securly execute commands and programs in a computer that is physically out of your reach. Your webserver is most likely in another country on another continent. SSH helps you connect to its terminal so you can run scripts, deploy programs and so on. Most of what you need to know about ssh is provided in the material of the task. There was however an issue where ssh keys were missing from sandbox terminals. [Follow this guide if you ever run into such an issue.](https://www.baeldung.com/linux/copy-ssh-keys)
 
+## Load Balancer
+* How to configure web-02 to be like web-01:
+1. Use 4-not_found_page_404 script from task 4 in [this project.](https://intranet.alxswe.com/projects/266)
+2. In your terminal, go into the appropriate repo using cd. The filepath should be alx-system_engineering-devops/0x0C-web_server
+3. Copy it using scp command as follows:
+```scp 4-not_found_page_404 ubuntu@your_web-02_server_ip:~```
+Note that 'your_web-02_server_ip' is just a placeholder name. Use your correct web-02 server IP.
+4. Now ssh into web-02 and run the script. If done correctly, web-02 nginx will now be configured just like web-01.
+5. Exit by typing 'exit' or pressing Ctrl + D. Now cd back into the task folder '0x0F-load_balancer'. Don't forget to create a readme file.
+
+After you do this, you write another script to configure a custom header in nginx in both web-01 and web-02
+1. Create the 0-custom_http_response_header script in the task folder '0x0F-load_balancer'.
+2. Use scp to copy this script to both web-01 and web-02 servers
+```scp 0-custom_http_response_header ubuntu@your_web-01_server_ip:~```
+```scp 0-custom_http_response_header ubuntu@your_web-02_server_ip:~```
+3. ssh into web-01, run the script. Exit back to your terminal.
+4. ssh into web-02, run the script. Exit back to your terminal.
+5. Test your configuration using the example shown in the task.
+
+* How to install HAProxy:
+1. Write a script to install and configure HAProxy with the specs given in the task. Follow the task material for guidelines.
+2. Using what you have learnt above use scp to copy the script '1-install_load_balancer' to your load balancer
+```scp 1-install_load_balancer ubuntu@your_lb-01_server_ip:~```
+3. ssh into your load balancer and run the script.
+4. Exit the ssh and test using the example shown in the task.
+5. Always take note of the terminal prompt in the examples. Some tests are run on the server itself, others are run from your terminal.
