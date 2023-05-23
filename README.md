@@ -54,7 +54,10 @@ To save and quit
 ```
 Other great commands:
 
-- :set number 
+- :set number - This command displays the numbering for each line. Makes it easy to trace mistakes and debug code.
+- gg - Takes the cursor to the top of the file. Faster way to navigate than using arrow keys.
+- dd - Deletes the entire line where the cursor is placed. Faster than delete or backspace button. Can also be used to paste the line elsewhere when you press 'p'.
+- ?keyword - Used to search keywords in a document. For example, ?printf will look for all instances of 'printf'. If there are multiple instances, use 'n' and 'N' to jump between them forwards or backwards respectively.
 ___
 
 
