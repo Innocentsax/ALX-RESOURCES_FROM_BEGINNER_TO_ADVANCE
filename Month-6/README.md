@@ -80,3 +80,5 @@ You should have your domain name by now.
 
 ![a record page](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/16bc22af-5d97-4427-998f-4c034d4248cb)
 
+8. Repeat this for all the other subdomains speficied in the task and fill in the appropriate server IP addresses.
+9. Now write a bash script to display domain information in the terminal with all the requirements specified in the task.
