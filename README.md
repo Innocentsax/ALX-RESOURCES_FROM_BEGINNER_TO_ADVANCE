@@ -33,7 +33,9 @@ To tell what mode you are in, watch the bottom left corner of your screen. Comma
 When you open Vi, the default mode is the command mode. To start typing, press 'i' to enter into insert mode. Press ESC key to go back into command mode.
 
 How to exit Vi:
-You must be in command mode to execute these:
+
+You must be in command mode to execute these commands.
+
 To quit an unedited document:
 ```
 :q
@@ -50,6 +52,9 @@ To save and quit
 ```
 :wq or :x
 ```
+Other great commands:
+
+- :set number 
 ___
 
 
