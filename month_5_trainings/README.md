@@ -325,3 +325,7 @@ At the end of this project, you are expected to be able to  [explain to anyone](
 -   What is a selector
 -   How to compute CSS Specificity Value
 -   What are Box properties in CSS
+
+
+# Authors
+## **[Innocent Udo](https://www.github.com/innocentsax)**, **[Owolabi Pius](https://www.github.com/opius2017)**
