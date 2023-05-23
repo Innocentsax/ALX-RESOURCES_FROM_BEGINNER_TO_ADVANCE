@@ -140,6 +140,33 @@ ___Variables, if, else, while___
 - [Arithmetic Operators](https://www.tutorialspoint.com/cprogramming/c_arithmetic_operators.htm)
 - [If statements in C](https://www.cprogramming.com/tutorial/c/lesson2.html)
 - [If, else statements](https://www.tutorialspoint.com/cprogramming/if_else_statement_in_c.htm)
+- [Relational Operation](https://www.tutorialspoint.com/cprogramming/c_relational_operators.htm)
+- [Logical Operators](https://www.fresh2refresh.com/c-programming/c-operators-expressions/c-logical-operators/)
+- [while Loop in C](https://www.tutorialspoint.com/cprogramming/c_while_loop.htm)
+ ___Video Resouses___
+- [While Loop](https://youtu.be/Ju1LYO9pkaI)
+
+___Functions, nested loops___
+- [C Functions](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
+- [What is the purpose of a function prototype](https://www.geeksforgeeks.org/what-is-the-purpose-of-a-function-prototype/)
+- [C header files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
+__Video Resources___ 
+- [Nested while loop](https://youtu.be/Z3iGeQ1gIss)
+- [Learning to program in C](https://youtu.be/qMlnFwYdqIw)
+
+
+___C Debugging___ 
+- [Debugging](https://en.wikipedia.org/wiki/Debugging)
+- [Rubber Duck debugging](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/)
+
+___Pointers, arrays, and strings___ 
+- [Pointer to pointer](https://www.tutorialspoint.com/cprogramming/c_pointer_to_pointer.htm)
+- [Pointer to pointer with examples](https://beginnersbook.com/2014/01/c-pointer-to-pointer/)
+- [Multi_dimentional arrays in C](https://www.tutorialspoint.com/cprogramming/c_multi_dimensional_arrays.htm)
+- [Two-dimensional (2D) arrays in C programming with ](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)
+
+
+
 
 
 ## Author
