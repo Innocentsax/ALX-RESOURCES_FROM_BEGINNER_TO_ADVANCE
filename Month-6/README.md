@@ -89,7 +89,9 @@ NB: These guidelines are written according to the time they were executed. Page 
 
 
 ## HAproxy SSL termination
+These are the steps that I followed in solving the task. Please note that it is subject to correction.
 Step 1: ssh into lb-01.
+
 Step 2: Stop HAProxy process
 ```
 sudo service haproxy stop
@@ -101,4 +103,24 @@ In this article they installed it with apache. But we are installing with HAProx
 sudo certbot certonly --standalone --preferred-challenges http --http-01-port 80 -d root_domain -d sub_domain
 ```
 Replace root_domain with your own root domain.
+
 Replace sub_domain with your own subdomain.
+
+In the article, the answers to the prompts that show on the terminal are addressed in the screenshots. Follow them.
+
+Step 4: Configure HAProxy to use your SSL certificate.
+Continue with the article in Step 3. Edit the commands and fill in the appropriate details. For example:
+```
+DOMAIN='linuxtechgeek.info'
+```
+Replace 'linuxtechgeek.info' with your own root domain before executing the command.
+
+The rest of the article is fairly straight forward. Just follow step by step. If you open your domain in a browser tab and it shows the padlock icon next to it, then it means your configuration was done properly.
+
+Step 5:
+Finally, type
+```
+sudo vi /etc/haproxy/haproxy.cfg
+```
+Highlight and copy its content. Close your ssh connection to go back to your normal terminal. Create a file 1-haproxy_ssl_termination and paste what you copied here.
+Save and commit it to Github. Note that this configuration also covers redirecting HTTP traffic to HTTPS in the next task. Just include a line for HAProxy to return a 301. Copy out the configuration as you did above and commit to GitHub.
