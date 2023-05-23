@@ -138,4 +138,4 @@ ___Variables, if, else, while___
 
 
 ## Author
-### @ ___[UDO INNOCENT CHARLES](https://github.com/Innocentsax)___
+### **[Innocent Udo](https://www.github.com/innocentsax)**, **[Owolabi Pius](https://www.github.com/opius2017)**
