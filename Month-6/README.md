@@ -6,8 +6,8 @@ Quick Links
 1. [Node.js](#JavaScript)
 2. [SSH](#SSH)
 3. [Load balancer](#Load-Balancer)
-4. [HTTPS/SSL(Domain Zone Config)](#Configure Your Domain Zone on get.tech)
-5. [HTTPS/SSL(Certbot and HAProxy Config)](#HAproxy SSL termination)
+4. [HTTPS/SSL(Domain Zone Config)](#Configure-Your-Domain-Zone-on-get.tech)
+5. [HTTPS/SSL(Certbot and HAProxy Config)](#HAproxy-SSL-termination)
 
 ## JavaScript
 What is Node.js? Unlike other general purpose programming languages, Javascript was first developed as a special purpose language for web browsers. So it only ran in web browsers for a while. Node.js was then developed to be a runtime environment for Javascript which allows you to write and run Javascript outside a browser like other languages, in a termi example. Node.js provided the platform for Javascript to be used as a backend language and even write commandline scripts.
