@@ -84,8 +84,7 @@ How to debug code in the command line using vi:
 
 6. To recap, check for the error line, read and understand the error message and address it accordingly. You can always ask your peers to help you interpret error messages that you don't yet understand. I hope this helps, however simplistic it might appear. Keep doing hard things!
 
-![4 error free](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/d0410ac1-f51b-4e8b-bbbf-996103603eeb)
-
+![5 welcome](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/e9e66b73-1e19-4fa1-b96d-4c7e79aae524)
 
 ___
 
