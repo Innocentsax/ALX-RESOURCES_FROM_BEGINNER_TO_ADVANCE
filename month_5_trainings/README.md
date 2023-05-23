@@ -22,7 +22,7 @@ _For this project, we expect you to look at this concept:_
 ### Read about regexp:
 - [Regular Expression](http://www.regular-expressions.info/)
 - [Regular Expression](http://www.w3schools.com/jsref/jsref_obj_regexp.asp)
-Play with regexp (or compose them):
+- Play with regexp (or compose them):
 - [Ruby: ](http://rubular.com/)
 - [PHP/Javascript/Python: ](https://regex101.com/)
 
