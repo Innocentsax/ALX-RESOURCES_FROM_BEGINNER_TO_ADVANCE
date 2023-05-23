@@ -5,7 +5,7 @@ Sprint 3 starts in Month 6 and it is the most hands on part of the Foundations t
 Quick Links
 1. [Node.js](#JavaScript)
 2. [SSH](#SSH)
-3. [Load balancer](#Load Balancer)
+3. [Load balancer](#Load-Balancer)
 4. [HTTPS/SSL(Domain Zone Config)](#Configure Your Domain Zone on get.tech)
 5. [HTTPS/SSL(Certbot and HAProxy Config)](#HAproxy SSL termination)
 
