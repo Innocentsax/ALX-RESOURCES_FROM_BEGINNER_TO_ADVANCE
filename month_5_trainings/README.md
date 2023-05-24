@@ -58,7 +58,7 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 - [OSI](https://www.simplilearn.com/tutorials/cyber-security-tutorial/physical-layer-in-the-osi-model)
 - [LAN](https://www.cisco.com/c/en/us/products/switches/what-is-a-lan-local-area-network.html)
 ### Read or watch:
-
+- [Keith Baker CCNA Playlist](https://www.youtube.com/watch?v=8AX9LandYJU&list=PLQQoSBmrXmrysEaVNia7KVwf85qATIi1V)
 - [OSI model](https://en.wikipedia.org/wiki/OSI_model)
 - [Different types of network](https://www.lifewire.com/lans-wans-and-other-area-networks-817376)
 - [LAN network   ](https://en.wikipedia.org/wiki/Local_area_network)
