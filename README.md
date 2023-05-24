@@ -182,7 +182,7 @@ ___
 - [Bit manipulations](https://codewise.hashnode.dev/) 
 
 
-## ___ Alx Resources___ 
+## ___Alx Resources___ 
 ### ___Hello World___
 
 - [Everything you need to know to start with C pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2022/4/e0ccf91eec6b977a9e00ed384dc285df9c2772e3.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230104T155404Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=dd33e8dfb92be3cc7150b3b9be22349b0be0a27502ad2e899c4191b9f0d1f902)
@@ -197,6 +197,7 @@ ___
 - [Hash-bang under the hood](https://twitter.com/unix_byte/status/1024147947393495040?s=21)
 - [C vs C++](http://harmful.cat-v.org/software/c++/) 
 - [Free Programming Tutorials](https://www.learninglad.com/)
+___
 
 ### ___Variables, if, else, while___ 
 - [Jenny Lectures](https://youtu.be/oWTnLzWkF5w)
@@ -212,6 +213,8 @@ ___
  ___Video Resouses___
 - [While Loop](https://youtu.be/Ju1LYO9pkaI)
 
+___
+
 ### ___Functions, nested loops___
 - [C Functions](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
 - [What is the purpose of a function prototype](https://www.geeksforgeeks.org/what-is-the-purpose-of-a-function-prototype/)
@@ -221,16 +224,20 @@ __Video Resources___
 - [Nested while loop](https://youtu.be/Z3iGeQ1gIss)
 - [Learning to program in C](https://youtu.be/qMlnFwYdqIw)
 
+___
 
 ### ___C Debugging___ 
 - [Debugging](https://en.wikipedia.org/wiki/Debugging)
 - [Rubber Duck debugging](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/)
+___
 
 ### ___Pointers, arrays, and strings___ 
 - [Pointer to pointer](https://www.tutorialspoint.com/cprogramming/c_pointer_to_pointer.htm)
 - [Pointer to pointer with examples](https://beginnersbook.com/2014/01/c-pointer-to-pointer/)
 - [Multi_dimentional arrays in C](https://www.tutorialspoint.com/cprogramming/c_multi_dimensional_arrays.htm)
 - [Two-dimensional (2D) arrays in C programming with ](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)
+
+___
 
 ### ___Recursion___ 
 - [, introduction ](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/1/2818ba6f14f644b871dcbd746925fa15b8cd5937.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230104T164913Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=97176d67e982b371ae5462ba88aba30c5362eb7f2c7956a953703d2378c290df)
