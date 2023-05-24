@@ -45,7 +45,7 @@ To quit an edited document without saving changes:
 ```
 :q!
 ```
-To save progress without quiting
+To save progress without quitting
 ```
 :w
 ```
@@ -66,7 +66,7 @@ How to debug code in the command line using vi:
 
 ![0 program](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/421a96c1-8ea3-4184-9dd8-ed2898624a09)
 
-2. When you run a betty check on the code, it gives you an error message. Notice the number '27' in front of the file name 'debug.c:27'. That number is the line number where the error occured.
+2. When you run a betty check on the code, it gives you an error message. Notice the number '27' in front of the file name 'debug.c:27'. That number is the line number where the error occurred.
 
 ![1 error message](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/9c2f77fa-e5b0-4234-8943-a69df8d77396)
 
