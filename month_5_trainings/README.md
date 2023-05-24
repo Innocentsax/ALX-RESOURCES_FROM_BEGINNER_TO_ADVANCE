@@ -20,7 +20,7 @@ _For this project, we expect you to look at this concept:_
 
 
 ### Read about regexp:
-- [RegEx(Regular Expression) in Python](https://www.youtube.com/watch?v=8umtNeqw1TM)
+- [Regular Expression match(), fullmatch(), search(), findall(), finditer(), sub() in Python](https://www.youtube.com/watch?v=XM5zPAbFOn4)
 - [Regular Expression](http://www.regular-expressions.info/)
 - [Regular Expression](http://www.w3schools.com/jsref/jsref_obj_regexp.asp)
 - Play with regexp (or compose them):
