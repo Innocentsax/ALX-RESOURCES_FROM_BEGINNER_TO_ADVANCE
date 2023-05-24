@@ -164,6 +164,7 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
 
 ## Resources
 ### Read or watch:
+- [AirBnB Clone Console Application in Python Discussion | ALX PLD](https://www.youtube.com/watch?v=P1cNeo-0ioM&t=2742s)
 - [CMD Module](https://docs.python.org/3.8/library/cmd.html)
 - [cmd module in depth](http://pymotw.com/2/cmd/)
 - packages concept page
@@ -174,6 +175,7 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
 - [Python test cheatsheet](https://www.pythonsheets.com/notes/python-tests.html)
 - [cmd module wiki page](https://wiki.python.org/moin/CmdModule)
 - [python unittest](https://realpython.com/python-testing/)
+- [Make a Web App Like AIRBNB Playlist](https://www.youtube.com/watch?v=40utCT2lJo8&list=PLxabZQCAe5fi-8QC9SvwM9o2nioyEbmRV)
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
@@ -198,6 +200,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 ### Read or watch:
 
 - [What is Database & SQL?](https://www.youtube.com/watch?v=FR4QIeZaPeM)
+- [Database Engineering Complete Course | DBMS Complete Course](https://www.youtube.com/watch?v=iwRneX7GIGI)
 - [A Basic MySQL Tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
 - [Basic SQL statements: DDL and DML (no need to read the chapter “Privileges”)](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/ddldml.php)
 - [Basic queries: SQL and RA](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/queries.php)
@@ -230,8 +233,8 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 ## Resources
 
 **Read or watch**:
-
 -   [How To Create a New User and Grant Permissions in MySQL](https://intranet.alxswe.com/rltoken/RniBKj48bnIN8xpXhGl1yA "How To Create a New User and Grant Permissions in MySQL")
+-   [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc)
 -   [How To Use MySQL GRANT Statement To Grant Privileges To a User](https://intranet.alxswe.com/rltoken/FIiEIvA6IN_hSKM5TvgyxQ "How To Use MySQL GRANT Statement To Grant Privileges To a User")
 -   [MySQL constraints](https://intranet.alxswe.com/rltoken/LrovGa6N-OE2ID_tpWZRaQ "MySQL constraints")
 -   [SQL technique: subqueries](https://intranet.alxswe.com/rltoken/kR71h5zjkPtx4kBoVf7q0g "SQL technique: subqueries")
