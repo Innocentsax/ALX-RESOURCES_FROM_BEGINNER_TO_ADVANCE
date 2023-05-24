@@ -20,6 +20,7 @@ _For this project, we expect you to look at this concept:_
 
 
 ### Read about regexp:
+- [Learn Regular Expressions (Regex) - Crash Course for Beginners](https://www.youtube.com/watch?v=ZfQFUJhPqMM)
 - [Regular Expressions (RegEx Playlist) - What is RegEx?](https://www.youtube.com/watch?v=r6I-Ahc0HB4&list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD)
 - [Regular Expression match(), fullmatch(), search(), findall(), finditer(), sub() in Python](https://www.youtube.com/watch?v=XM5zPAbFOn4)
 - [Regular Expression](http://www.regular-expressions.info/)
@@ -113,7 +114,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## Resources
 ### Read or watch:
-
+- [CCNA Playlist](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 - What is localhost
 - What is 0.0.0.0
 - What is the hosts file
