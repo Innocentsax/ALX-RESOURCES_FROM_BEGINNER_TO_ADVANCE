@@ -6,7 +6,7 @@ Quick Links
 1. [Node.js](#JavaScript)
 2. [SSH](#SSH)
 3. [Load balancer](#Load-Balancer)
-4. [HTTPS/SSL(Domain Zone Config)](#Configure-Your-Domain-Zone-on-get.tech)
+4. [HTTPS/SSL(Domain Zone Config)](#Configure-Your-Domain-Zone)
 5. [HTTPS/SSL(Certbot and HAProxy Config)](#HAproxy-SSL-termination)
 
 ## JavaScript
@@ -55,7 +55,7 @@ scp 1-install_load_balancer ubuntu@your_lb-01_server_ip:~
 4. Exit the ssh and test using the example shown in the task.
 5. Always take note of the terminal prompt in the examples. Some tests are run on the server itself, others are run from your terminal.
 
-## Configure Your Domain Zone on get.tech
+## Configure Your Domain Zone
 Configuring your domain zone to point your subdomain to your load balancer is easy.
 You should have your domain name by now.
 1. Got to get.tech
