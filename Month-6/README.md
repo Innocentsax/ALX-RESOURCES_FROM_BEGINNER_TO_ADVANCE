@@ -17,12 +17,16 @@ More [here.](https://www.educative.io/blog/what-is-nodejs)
 
 
 ## SSH
+[Back to the top](#Table-of-Contents)
+
 What is SSH? SSH is a short form for Secure Shell, just as 'bash' is short for Bourne Again Shell. A shell is terminal-based program that allows you to give direct instructions as well as run precoded instructions written in a script. Simply put, it conveys your instructions to the kernel. More on that [here.](https://www.geeksforgeeks.org/what-is-terminal-console-shell-and-kernel/)
 
 ssh enables you to securly execute commands and programs in a computer that is physically out of your reach. Your webserver is most likely in another country on another continent. SSH helps you connect to its terminal so you can run scripts, deploy programs and so on. Most of what you need to know about ssh is provided in the material of the task. There was however an issue where ssh keys were missing from sandbox terminals. [Follow this guide if you ever run into such an issue.](https://www.baeldung.com/linux/copy-ssh-keys)
 
 
 ## Load Balancer
+[Back to the top](#Table-of-Contents)
+
 * How to configure web-02 to be like web-01:
 1. Use 4-not_found_page_404 script from task 4 in [this project.](https://intranet.alxswe.com/projects/266)
 2. In your terminal, go into the appropriate repo using cd. The filepath should be alx-system_engineering-devops/0x0C-web_server
@@ -58,6 +62,8 @@ scp 1-install_load_balancer ubuntu@your_lb-01_server_ip:~
 5. Always take note of the terminal prompt in the examples. Some tests are run on the server itself, others are run from your terminal.
 
 ## Configure Your Domain Zone
+[Back to the top](#Table-of-Contents)
+
 Configuring your domain zone to point your subdomain to your load balancer is easy.
 You should have your domain name by now.
 1. Got to get.tech
@@ -91,6 +97,8 @@ NB: These guidelines are written according to the time they were executed. Page 
 
 
 ## HAproxy SSL termination
+[Back to the top](#Table-of-Contents)
+
 These are the steps that I followed in solving the task. Please note that it is subject to correction.
 Step 1: ssh into lb-01.
 
