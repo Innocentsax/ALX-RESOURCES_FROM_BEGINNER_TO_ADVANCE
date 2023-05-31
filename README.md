@@ -150,6 +150,17 @@ ___
 - [Unix Shell Scripting Tutorial](https://www.youtube.com/watch?v=HvonLym2eDw)
 ___
 
+## ___Shell, init files, variables and expansions___
+
+Expansions
+Shell Arithmetic
+Variables
+Shell initialization files
+The alias Command
+Technical Writing
+
+
+
 ## ___C Programming___
 <img width="300" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4GUjFkesFbctkKWs9GNPp1bjpZL-vLtLyg&usqp=CAU">
 
@@ -157,17 +168,11 @@ ___
 - [C Programming](https://youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2)
 - [C programming: All you need to know.](https://youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S)
 - [C Programming playlist](https://youtube.com/playlist?list=PL9ooVrP1hQOFrNo8jK9Yb2g2eMHz7hTu9)
-
-![Preprocessing Directives in C](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/117779858/cd641916-f29a-4250-b719-7f5cb78dac21)
-
+<!-- ![Preprocessing Directives in C](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/117779858/cd641916-f29a-4250-b719-7f5cb78dac21) -->
 - [Pre Processor Directives in C.](https://youtu.be/X6HiYbY3Uak)
-
-![compilation Process in C](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/117779858/84392048-50ff-4096-9f19-a491b1e50dfb)
-
+<!-- ![compilation Process in C](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/117779858/84392048-50ff-4096-9f19-a491b1e50dfb) -->
 - [Compiling and Linking in C.](https://youtu.be/HQAIj6ejefY)
-
-![pseudocodes and flowcharts](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/117779858/f4a42a16-ba48-4f04-88ab-30fc193876ad)
-
+<!-- ![pseudocodes and flowcharts](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/117779858/f4a42a16-ba48-4f04-88ab-30fc193876ad) -->
 - [Pseudocode, flowchart, Algorithm and Whiteboarding.](https://youtu.be/cmqtfh-v13k)
 - [All you need to know about static libraries.](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
 - [Difference between static and dynamic libraries.](https://www.linkedin.com/pulse/difference-between-static-vs-dynamic-libraries-nicolas-ribeiro/)
