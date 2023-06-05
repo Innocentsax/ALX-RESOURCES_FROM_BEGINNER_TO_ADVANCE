@@ -253,6 +253,13 @@ ___Video Resources___
 - [Programming tutorials, recursion part 1](https://youtu.be/XGxbXMP6k8k)
 - [Programming tutorials, recursion part 2](https://youtu.be/7XiIS6HobNs)
 
+### ___Static libraries___
+- [What Is A “C” Library? What Is It Good For](https://www.youtube.com/watch?v=eW5he5uFBNM)
+- [Creating A Static “C” Library Using “ar” and “ranlib”](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)
+- [Using A “C” Library In A Program](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)
+- [What is difference between Dynamic and Static library(Static and Dynamic linking) (stop at 4:44)](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)
+
+
 
 
 ## Author
