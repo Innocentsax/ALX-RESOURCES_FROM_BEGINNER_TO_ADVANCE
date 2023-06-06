@@ -253,6 +253,25 @@ ___Video Resources___
 - [Programming tutorials, recursion part 1](https://youtu.be/XGxbXMP6k8k)
 - [Programming tutorials, recursion part 2](https://youtu.be/7XiIS6HobNs)
 
+### ___Static libraries___
+- [What Is A “C” Library? What Is It Good For](https://www.youtube.com/watch?v=eW5he5uFBNM)
+- [Creating A Static “C” Library Using “ar” and “ranlib”](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)
+- [Using A “C” Library In A Program](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)
+- [What is difference between Dynamic and Static library(Static and Dynamic linking) (stop at 4:44)](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)
+
+### ___C - argc, argv___
+- [Arguments to main](https://publications.gbdirect.co.uk//c_book/chapter10/arguments_to_main.html)
+- [argc and argv](http://crasseux.com/books/ctutorial/argc-and-argv.html)
+- [What does argc and argv mean?](https://www.youtube.com/watch?v=aP1ijjeZc24)
+- [how to compile with unused variables](https://www.google.com/webhp?q=unused+variable+C)
+
+### ___C - malloc, free___
+- [Automatic and dynamic allocation, malloc and free](https://intranet.alxswe.com/concepts/62)
+- [0x0a - malloc & free - quick overview.pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/1/a094c90e7f466bbeaa49cb24c8f04e7f27aaad41.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230605%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230605T181931Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0ee8bdcab4dfb3705627e02bcc63eb69c04545bb121b394fae0cb6b584cf2f67)
+- [Dynamic memory allocation in C - malloc calloc realloc free (stop at 6:50)](https://www.youtube.com/watch?v=xDVC3wKjS64)
+- [Do I cast the result of malloc](https://stackoverflow.com/questions/605845/do-i-cast-the-result-of-malloc)
+
+
 
 
 ## Author
