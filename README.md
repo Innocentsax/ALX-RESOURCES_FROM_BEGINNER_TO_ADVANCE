@@ -271,7 +271,13 @@ ___Video Resources___
 - [Dynamic memory allocation in C - malloc calloc realloc free (stop at 6:50)](https://www.youtube.com/watch?v=xDVC3wKjS64)
 - [Do I cast the result of malloc](https://stackoverflow.com/questions/605845/do-i-cast-the-result-of-malloc)
 
-
+### ___C - Structures, typedef___
+- [Structures.pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/1/6eb80c79c99f6125450a0dc11b300d46238d1a5a.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230608T184959Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=56107dae52ade63eb7e5810d79079d66f8861a75329d117c85ca4e168420fa67)
+- [struct (C programming language)](https://en.wikipedia.org/wiki/Struct_(C_programming_language))
+- [Documentation: structures](https://github.com/alx-tools/Betty/wiki/Documentation:-Data-structures)
+- [Typedef and structures.pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/1/c8ff3e6f7202be7fa489a584e41d005504a07c23.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230608T185010Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=38e72593772e5e8624d1f26bfc5b2d4e5b7de2e52395538a1dc2c98393a27e17)
+- [typedef](https://publications.gbdirect.co.uk//c_book/chapter8/typedef.html)
+- [The Lost Art of C Structure Packing](http://www.catb.org/esr/structure-packing/)
 
 
 ## Author
