@@ -279,6 +279,28 @@ ___Video Resources___
 - [typedef](https://publications.gbdirect.co.uk//c_book/chapter8/typedef.html)
 - [The Lost Art of C Structure Packing](http://www.catb.org/esr/structure-packing/)
 
+### ___C - Preprocessor___
+- [Understanding C program Compilation Process](https://www.youtube.com/watch?v=eW5he5uFBNM)
+- [Object-like Macros](https://gcc.gnu.org/onlinedocs/gcc-5.1.0/cpp/Object-like-Macros.html#Object-like-Macros)
+- [Macro Arguments](https://gcc.gnu.org/onlinedocs/gcc-5.1.0/cpp/Macro-Arguments.html#Macro-Arguments)
+- [Pre Processor Directives in C](https://www.youtube.com/watch?v=X6HiYbY3Uak)
+- [The C Preprocessor](https://www.cprogramming.com/tutorial/cpreprocessor.html)
+- [Standard Predefined Macros](https://gcc.gnu.org/onlinedocs/gcc-5.1.0/cpp/Standard-Predefined-Macros.html#Standard-Predefined-Macros)
+- [include guard](https://en.wikipedia.org/wiki/Include_guard)
+- [Common Predefined Macros](https://gcc.gnu.org/onlinedocs/gcc-5.1.0/cpp/Common-Predefined-Macros.html#Common-Predefined-Macros)
+
+### ___ C - Function pointers___
+- [Function Pointer in C](https://www.geeksforgeeks.org/function-pointer-in-c/)
+- [Pointers to functions](https://publications.gbdirect.co.uk//c_book/chapter5/function_pointers.html)
+- [Function Pointers in C / C++](https://www.youtube.com/watch?v=ynYtgGUNelE)
+- [why pointers to functions?](https://www.youtube.com/watch?v=sxTFSDAZM8s&feature=youtu.be)
+- [Everything you need to know about pointers in C](https://boredzo.org/pointers/)
+
+### ___C - Variadic functions___
+- [stdarg.h](https://en.wikipedia.org/wiki/Stdarg.h)
+- [Variadic Functions](https://www.gnu.org/software/libc/manual/html_node/Variadic-Functions.html)
+- [Const Keyword](https://www.youtube.com/watch?v=1W4oyuOdXv8)
+
 
 ## Author
 ### **[UDO INNOCENT CHARLES](https://www.github.com/innocentsax)**, **[Owolabi Pius](https://www.github.com/opius2017)**
