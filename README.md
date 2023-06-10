@@ -301,8 +301,56 @@ ___Video Resources___
 - [Variadic Functions](https://www.gnu.org/software/libc/manual/html_node/Variadic-Functions.html)
 - [Const Keyword](https://www.youtube.com/watch?v=1W4oyuOdXv8)
 
+### ___C - printf___
+- [Secrets of printf](https://www.academia.edu/10297206/Secrets_of_printf_)
+
+### ___C - Dynamic libraries___
+- [What is difference between Dynamic and Static library (Static and Dynamic linking)](https://www.youtube.com/watch?v=eW5he5uFBNM)
+- [create dynamic libraries on Linux](https://www.google.com/#q=linux+create+dynamic+library)
+
+### ___C - Makefiles___
+- [Makefile](https://www.google.com/search?q=makefile)
+- [Installing the make utility](https://www.geeksforgeeks.org/how-to-install-make-on-ubuntu/)
+- [make-official documentation](https://www.gnu.org/software/make/manual/html_node/)
+
+## ___C - Data structures and Algorithms___
+<img width="300" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPvja9PoDXCYzY1_DOu2CsSTCmOMv1g_hqfg&usqp=CAU">
+
+A data structure is a named location that can be used to store and organize data. And, an algorithm is a collection of steps to solve a particular problem.
+
+### ___Linked Lists___
+- [Singly Linked Lists](https://www.youtube.com/watch?v=udapt4FGY20&feature=youtu.be&t=2m10s)
+- [Doubly linked Lists: What is a Doubly Linked List](https://www.youtube.com/watch?v=k0pjD12bzP0)
+
+### ___C - Stacks, Queues - LIFO, FIFO___
+- [How do I use extern to share variables between source files in C?](https://stackoverflow.com/questions/1433204/how-do-i-use-extern-to-share-variables-between-source-files)
+- [Stacks and Queues in C](https://data-flair.training/blogs/stacks-and-queues-in-c/)
+- [Stack operations](https://www.digitalocean.com/community/tutorials/stack-in-c)
+- [Queue operations](https://www.edureka.co/blog/queue-in-c/)
+
+### ___C - Hash tables___
+- [What is a HashTable Data Structure - Introduction to Hash Tables , Part 0](https://www.youtube.com/watch?v=MfhjkfocRR0)
+- [Hash function](https://en.wikipedia.org/wiki/Hash_function)
+- [Hash table](https://en.wikipedia.org/wiki/Hash_table)
+- [All about hash tables](https://www.digitalocean.com/community/tutorials/hash-table-in-c-plus-plus)
+- [why hash tables and not arrays](https://stackoverflow.com/questions/31930046/what-is-a-hash-table-and-how-do-you-make-it-in-c)
+
+
+### ___C - Sorting algorithms & Big O___
+- [Sorting algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm)
+- [Big O notation](https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation)
+- [Sorting algorithms animations](https://www.toptal.com/developers/sorting-algorithms)
+- [15 sorting algorithms in 6 minutes ](https://www.youtube.com/watch?v=kPRA0W1kECg)
+- [CS50 Algorithms explanation in detail by David Malan](https://www.youtube.com/watch?v=yb0PY3LX2x8&t=2s)
+- [All about sorting algorithms](https://www.geeksforgeeks.org/sorting-algorithms/)
+
+### ___C - Binary trees___
+- [Binary tree (note the first line: Not to be confused with B-tree.)](https://en.wikipedia.org/wiki/Binary_tree)
+- [Data Structure and Algorithms - Tree](https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm)
+- [Tree Traversal](https://www.programiz.com/dsa/tree-traversal)
+- [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree)
+- [Data structures: Binary Tree](https://www.youtube.com/watch?v=H5JubkIy_p8)
+
 
 ## Author
 ### **[UDO INNOCENT CHARLES](https://www.github.com/innocentsax)**, **[Owolabi Pius](https://www.github.com/opius2017)**
-
-
