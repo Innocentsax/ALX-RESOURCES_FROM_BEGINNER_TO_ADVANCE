@@ -1,6 +1,8 @@
 # Materials for Month 6
 
-Sprint 3 starts in Month 6 and it is the most hands on part of the Foundations training. For many it will be uncharted territory as there will be lots to learn and execute as quickly as possible. Lots of Linux-based tasks, software installation and configuration. Hopefully these materials will be useful to you and will help you get up to speed very quickly. This is not meant to be a replacement to the materials already provided on the intranet but to augument it and possibly cover areas that need more attention. If there are areas you need me to cover more, you can reach out to me.
+Sprint 3 starts in Month 6 and it is the most hands on part of the Foundations training. For many it will be uncharted territory as there will be lots to learn and execute as quickly as possible. Lots of Linux-based tasks, software installation and configuration. Hopefully these materials will be useful to you and will help you get up to speed very quickly. This is not meant to be a replacement for the materials already provided on the intranet, but to augument them and possibly cover areas that need more attention and clarity.
+
+I would like some feedback if you have any. Send me an email at onchemoses38@gmail.com
 
 ### Table of Contents
 1. [Node.js](#JavaScript)
