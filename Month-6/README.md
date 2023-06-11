@@ -29,7 +29,7 @@ ssh enables you to securly execute commands and programs in a computer that is p
 ## Load Balancer
 [Back to the top](#Table-of-Contents)
 
-* How to configure web-02 to be like web-01:
+### How to configure web-02 to be like web-01:
 1. Use 4-not_found_page_404 script from task 4 in [this project.](https://intranet.alxswe.com/projects/266)
 2. In your terminal, go into the appropriate repo using cd. The filepath should be alx-system_engineering-devops/0x0C-web_server
 3. Copy it using scp command as follows:
@@ -53,7 +53,7 @@ scp 0-custom_http_response_header ubuntu@your_web-02_server_ip:~
 4. ssh into web-02, run the script. Exit back to your terminal.
 5. Test your configuration using the example shown in the task.
 
-* How to install HAProxy:
+### How to install HAProxy:
 1. Write a script to install and configure HAProxy with the specs given in the task. Follow the task material for guidelines.
 2. Using what you have learnt above use scp to copy the script '1-install_load_balancer' to your load balancer
 ```
