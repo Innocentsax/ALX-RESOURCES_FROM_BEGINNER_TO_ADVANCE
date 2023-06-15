@@ -140,5 +140,7 @@ Save and commit it to Github. Note that this configuration also covers redirecti
 
 ## MySQL Replica
 [Back to the top](#Table-of-Contents)
+
 This task involves creating a mirror version of your MySQL database in web-02 so that if anything happens to web-01, web-02 can serve to keep everything running while web-01 is troubleshooted and fixed. The replica updates all the changes made in the web-01 db. Here are tips on how to approach the tasks.
-1. Make sure that the installed version of MySQL on web-01 is 5.7.x (x is just a placeholder for any number. 5.7 is what takes priority). Here is an excellent guideline that takes you through the process of installing MySQL 5.7, especially if you already have 8.0 installed. [Link](https://www.devart.com/dbforge/mysql/how-to-install-mysql-on-ubuntu/)
+1. Make sure that the installed version of MySQL on web-01 is 5.7.x (x is just a placeholder for any number. 5.7 is what takes priority). Here is an excellent guideline that takes you through the process of installing MySQL 5.7, especially if you already have 8.0 installed. [Link](https://www.devart.com/dbforge/mysql/how-to-install-mysql-on-ubuntu/) <a href="https://www.devart.com/dbforge/mysql/how-to-install-mysql-on-ubuntu/" target="_blank">Link</a>
+2. 
