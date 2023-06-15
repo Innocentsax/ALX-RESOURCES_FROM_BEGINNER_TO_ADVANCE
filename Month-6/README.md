@@ -87,7 +87,7 @@ You should have your domain name by now.
 
 6. A new window will open. This is your domain zone. All you are required to do here is to create A records according to how they are specified in the tasks. Click on 'Add A record'.
 
-![domain zone](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/d131fb25-a566-415d-b852-2973d065d722)
+![domain zone](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/295c32a9-e758-40b8-ba10-29e0148adabc)
 
 7. An A record page will appear. In 'Host Name', type 'www'. In 'Destination IPv4 address' type your lb-01 IP address. Click 'Add record'.
 
