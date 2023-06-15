@@ -144,7 +144,21 @@ Save and commit it to Github. Note that this configuration also covers redirecti
 This task involves creating a mirror version of your MySQL database in web-02 so that if anything happens to web-01, web-02 can serve to keep everything running while web-01 is troubleshooted and fixed. The replica updates all the changes made in the web-01 db. Here are tips on how to approach the tasks.
 
 ### How to install MySQL 5.7.x
-Make sure that the installed version of MySQL on web-01 is 5.7.x (x is just a placeholder for any number. 5.7 is what takes priority). Here is an excellent guideline that takes you through the process of installing MySQL 5.7, especially if you already have 8.0 installed -> [Link](https://www.devart.com/dbforge/mysql/how-to-install-mysql-on-ubuntu/). Remember to install this in both web-01 and web-02.
+
+This task is long and somewhat daunting. Be very meticulous when doing it.
+
+The task requirement is to install MySQL 5.7.x (x is just a placeholder for any number. 5.7 is the focus). Here is an excellent guideline that takes you through the process of installing MySQL 5.7, especially if you have 8.0 already installed -> [Link](https://www.devart.com/dbforge/mysql/how-to-install-mysql-on-ubuntu/). Remember to install 5.7 in both web-01 and web-02.
 
 * How to create a new user and grant them permission: [Link to article](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql)
-* How to set up replica infrastructure: [Link to article](https://www.digitalocean.com/community/tutorials/how-to-set-up-replication-in-mysql)
+* How to set up replica infrastructure: [Link to article](https://www.digitalocean.com/community/tutorials/how-to-set-up-replication-in-mysql). PLease note that newer versions of MySQL use Source-Replica relationship description, while older versions use Master-Slave description. This Digital Ocean article above uses Source-Replica in the configuration. For example:
+```
+CHANGE REPLICATION SOURCE TO
+SOURCE_HOST='source_server_ip',
+SOURCE_USER='replica_user',
+SOURCE_PASSWORD='password',
+SOURCE_LOG_FILE='mysql-bin.000001',
+SOURCE_LOG_POS=899;
+```
+But the task requirement is to use MySQL 5.7.x.
+
+So when you get to the above part, revert back to MySQL's official documentation for 5.7: -> [Here](https://dev.mysql.com/doc/refman/5.7/en/replication-setup-replicas.html).
