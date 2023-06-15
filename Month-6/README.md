@@ -10,6 +10,7 @@ I would like some feedback if you have any. Send me an email at onchemoses38@gma
 3. [Load balancer](#Load-Balancer)
 4. [HTTPS/SSL(Domain Zone Config)](#Configure-Your-Domain-Zone)
 5. [HTTPS/SSL(Certbot and HAProxy Config)](#HAproxy-SSL-termination)
+6. [MySQL Replica](#MySQL-Replica)
 
 ## JavaScript
 [Back to the top](#Table-of-Contents)
@@ -136,3 +137,8 @@ sudo vi /etc/haproxy/haproxy.cfg
 ```
 Highlight and copy its content. Close your ssh connection to go back to your normal terminal. Create a file 1-haproxy_ssl_termination and paste what you copied here.
 Save and commit it to Github. Note that this configuration also covers redirecting HTTP traffic to HTTPS in the next task. Just include a line for HAProxy to return a 301. Copy out the configuration as you did above and commit to GitHub.
+
+## MySQL Replica
+[Back to the top](#Table-of-Contents)
+This task involves creating a mirror version of your MySQL database in web-02 so that if anything happens to web-01, web-02 can serve to keep everything running while web-01 is troubleshooted and fixed. The replica updates all the changes made in the web-01 db. Here are tips on how to approach the tasks.
+1. Make sure that the installed version of MySQL on web-01 is 5.7.x (x is just a placeholder for any number. 5.7 is what takes priority). Here is an excellent guideline that takes you through the process of installing MySQL 5.7, especially if you already have 8.0 installed. [Link](https://www.devart.com/dbforge/mysql/how-to-install-mysql-on-ubuntu/)
