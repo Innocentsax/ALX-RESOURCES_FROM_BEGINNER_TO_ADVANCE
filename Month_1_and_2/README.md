@@ -12,4 +12,6 @@ AND TALIS
 I found a fantastic tool for creating flowcharts using a very basic markdown-styled syntax called Mermaid. It can be understood in 5-10 minutes. After creating your chart you can download a PNG image of it and use for your tasks.
 
 Check it out [mermaid.live](mermaid.live).
+
+
 ![mermaid_live_sample_page](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE/assets/23355078/1c3f2a96-ebc1-453b-a183-3bdb3b46693e)
