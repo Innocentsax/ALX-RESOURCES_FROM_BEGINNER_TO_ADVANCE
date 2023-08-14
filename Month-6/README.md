@@ -15,7 +15,7 @@ I would like some feedback if you have any. Send me an email at onchemoses38@gma
 ## JavaScript
 [Back to the top](#Table-of-Contents)
 
-What is Node.js? Unlike other general purpose programming languages, Javascript was first developed as a special purpose language for web browsers. So it only ran in web browsers for a while. Node.js was then developed to be a runtime environment for Javascript which allows you to write and run Javascript outside a browser like other languages, in a termi example. Node.js provided the platform for Javascript to be used as a backend language and even write commandline scripts.
+What is Node.js? Unlike other general purpose programming languages, Javascript was first developed as a special purpose language for web browsers. So it only ran in web browsers for a while. Node.js was then developed to be a runtime environment for Javascript which allows you to write and run Javascript outside a browser like other mainstream languages. Node.js provides the platform for Javascript to be used as a backend language to build server applications and even write command-line scripts. It comes preinstalled in some of the sandboxes that we are given, and also on Linux if you are using WSL or Virtual Box.
 More [here.](https://www.educative.io/blog/what-is-nodejs)
 
 
