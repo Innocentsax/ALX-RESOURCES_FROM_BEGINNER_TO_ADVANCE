@@ -1,5 +1,5 @@
 # ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE
-### [END YOUR STRUGGLE WITH DSA HERE 👈🏽](https://neetcode.io/practice)
+### [END YOUR STRUGGLE WITH DATA STRUCTURE HERE 👈🏽](https://neetcode.io/practice)
 ___
 ## ___WELCOME TO ALX___
 
