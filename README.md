@@ -1,6 +1,7 @@
 # ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE
 ### [END YOUR STRUGGLE WITH DATA STRUCTURE HERE 👈🏽](https://neetcode.io/practice)
 # [AI PROMPT ENGINEERING ✍️](https://brightpool.notion.site/fe947b16fe894c3e8a8a19a6b81aec2c?v=95d47a12393a43a79690d74aad38fd7b)
+### [AI PROMPT ENGINEERING REPO ✍️]([https://brightpool.notion.site/fe947b16fe894c3e8a8a19a6b81aec2c?v=95d47a12393a43a79690d74aad38fd7b](https://github.com/BrightPool/udemy-prompt-engineering-course))
 ___
 ## ___WELCOME TO ALX___
 
